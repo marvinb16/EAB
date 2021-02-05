@@ -3,7 +3,7 @@
 EAB
 Version 0.1 - Alpha Build
 
-EAB is a all in one program requiring a few addons which aid and help in cultivating and growing plants/herbs/vegitables. The goal is a gui with temperature readings, growing times, humidiy, temperature control, lighting, and automated cycles. These can be adjusted any time and fully customizable. This is my first major programming project so bear with the bugs. I will be using a Raspberry Pie with a custom made GUI Program.
+EAB is a all in one program requiring a few addons which aid and help in cultivating and growing plants/herbs/vegitables. The goal is a gui with temperature readings, growing times, humidiy, temperature control, lighting, and automated cycles. These can be adjusted any time and fully customizable. This is my first public programming project so bear with the bugs. I will be using a Raspberry Pie with a custom made GUI Program.
 
 Coding Languages:
  * Python
